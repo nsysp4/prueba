@@ -1,3 +1,13 @@
-xVbKeuLZSDfj0KRwjAXV07o+MN8ckEOg9S2DghH5frxJWFJpNmnMt6iKPu74RpD1Mlx4ohJ4bwHz
-1YvoiOa75w==
+{
+    "version": 2,
+    "sig_start1": 5,
+    "sig_length1": 7,
+    "sig_start2": 18,
+    "sig_length2": 6,
+    "sig_start3": 38,
+    "sig_length3": 5,
+    "noise1": "k9Xm2P",
+    "noise2": "Tz7nWq",
+    "noise3": "Rb4vYj"
+}
 
